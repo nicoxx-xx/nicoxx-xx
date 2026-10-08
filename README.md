@@ -29,7 +29,7 @@ OS       : Windows, Linux
 
 ![Stats](https://github-readme-stats.vercel.app/api=nicoxx_xx&show_icons=false&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/ername=nicoxx_xx&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/userername=nicoxx_xx&layout=compact&hide_border=true)
 
 ## Interests
 
