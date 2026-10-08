@@ -44,4 +44,4 @@ Software developer focused on:
 
 ## Profile Views
 
-![](https://komarev.com/ghpvc/?username=nicoxx-xx&label=Profile+views&color=blue
+![](https://komarev.com/ghpvc/?username=nicoxx-xx&label=Profile+views&color=blue)
