@@ -25,12 +25,13 @@ OS       : Windows, Linux
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5r=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=are&logo=css3&logoColor=white)
 
+<!--
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoxx-xx&show_icons=false&hide_border=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoxx-xx&layout=compact&hide_border=true&theme=default)
-
+-->
 ## Interests
 
 - Embedded Linux
