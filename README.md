@@ -16,14 +16,14 @@ Software developer focused on:
 
 ## Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=us&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=square&logo=us&logoColor=white)
 ![FreePascal](https://img.shields.io/badge/FreePascal-A800square)
 ![Lazarus](https://img.shields.io/badge/Lazarus-1F4E79?square)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=306998)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=square)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=square&logo=python&logoColor=306998)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flatavascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5r=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=square&logo=html5r=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=are&logo=css3&logoColor=white)
 
 <!--
