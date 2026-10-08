@@ -41,3 +41,7 @@ Software developer focused on:
 - Industrial automation
 - Data acquisition and processing
 - Cross-platform software development
+
+## Profile Views
+
+![](https://komarev.com/ghpvc/?username=nicoxx-xx&label=Profile+views&color=blue
