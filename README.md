@@ -27,9 +27,9 @@ OS       : Windows, Linux
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoxx-xx&show_icons=false&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoxx-xx&show_icons=false&hide_border=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoxx-xx&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoxx-xx&layout=compact&hide_border=true&theme=default)
 
 ## Interests
 
