@@ -35,7 +35,8 @@ Software developer focused on:
 -->
 ## Interests
 
-- Embedded Linux
+- Embedded systems
+- Analog and digital electronics
 - Microcontrollers and firmware
 - Industrial automation
 - Data acquisition and processing
