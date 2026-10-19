@@ -6,6 +6,7 @@ Software developer focused on:
 - Web applications (frontend & backend)
 - Desktop applications with FreePascal/Lazarus
 - MATLAB for modelling, analysis and prototyping
+- Relational database
 
 ## Current Toolbox
 
