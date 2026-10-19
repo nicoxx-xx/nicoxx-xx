@@ -10,7 +10,7 @@ Software developer focused on:
 ## Current Toolbox
 
 - MCU      : STM32 / ESP32 / AVR
-- Language : C, C++, FreePascal, Python, Javascript
+- Language : C, C++, FreePascal, Python, JavaScript
 - IDE      : Lazarus, VS Code, Arduino, Matlab
 - OS       : Windows, Linux
 
